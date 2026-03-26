@@ -24,7 +24,7 @@ Set up professional profiles on GitHub, LinkedIn, and HackerRank to build a stro
 ### Task 3 – Platforms
 Completed a beginner-level coding problem on HackerRank and created a Google Form quiz on digital literacy.
 
-🔗 **Google Form Link:** [Paste your form link here]
+🔗 **Google Form Link:** https://forms.gle/HqUvihEqadpwKJbX9
 
 ### Task 4 – Email Etiquette
 Drafted two professional emails:
